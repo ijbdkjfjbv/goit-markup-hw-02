@@ -7,6 +7,12 @@ text-decoration: none;
 button {
     cursor: pointer;
 }
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF
+
+}
 .logotype {
     color: var(--IRIS, #4D5AE5);
         font-family: Raleway;
