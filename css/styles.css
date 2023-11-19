@@ -36,6 +36,9 @@ body {
         text-transform: uppercase;
 
 }
+ .page-text:hover .page-text:focus {
+     color: #404bbf;
+ }
 .page-text {
     color: var(--NAVY-BLUE, #2E2F42);
         /* Body Medium */
@@ -47,10 +50,7 @@ body {
         /* 150% */
         letter-spacing: 0.32px;
         }
-        .page-text:hover
-        .page-text:focus {
-           color: #404bbf;
-        }
+      
 
 .page-info {
     color: var(--SLATE, #434455);
