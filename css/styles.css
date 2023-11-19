@@ -15,11 +15,11 @@ body {
 }
 .logotype {
     color: var(--IRIS, #4D5AE5);
-        font-family: Raleway;
+        font-family: 'Raleway',sans-serif;
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
-        line-height: 21px;
+        line-height: 1.17;
         /* 116.667% */
         letter-spacing: 0.54px;
         text-transform: uppercase;
