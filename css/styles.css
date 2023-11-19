@@ -27,7 +27,7 @@ body {
 .logo {
     color: var(--NAVY-BLUE, #2E2F42);
         font-family: 'Raleway', sans-serif;
-        font-size: 18px;
+        font-size: 16px;
         font-style: normal;
         font-weight: 700;
         line-height: 1.17;
@@ -53,7 +53,7 @@ body {
         }
 
 .page-info {
-    color: var(--SLATE, #434455);
+    color: #FFF
         /* Body */
         font-family: Roboto;
         font-size: 16px;
