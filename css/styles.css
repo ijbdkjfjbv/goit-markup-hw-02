@@ -165,6 +165,10 @@ background-color: #FFFFFF;
         /* 150% */
         letter-spacing: 0.32px;
 }
+.page-footer {
+    background-color: #2e2f42
+}
+
 .page-footer-title {
     color: var(--CLOUD, #F4F4FD);
         /* Body */
