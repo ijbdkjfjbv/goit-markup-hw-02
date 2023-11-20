@@ -83,6 +83,9 @@ color: var(--WHITE, #FFF);
     letter-spacing: 1.12px;
 }
 .buy-now-btn {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     display: inline-flex;
         padding: 16px 32px;
         align-items: flex-start;
