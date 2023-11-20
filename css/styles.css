@@ -10,7 +10,7 @@ button {
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 
 }
 .logotype {
@@ -49,7 +49,7 @@ body {
         }
         .page-text:hover
         .page-text:focus {
-        color: #404bbf
+        color: #404bbf;
         }
 
 .page-info {
