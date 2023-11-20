@@ -95,6 +95,11 @@ color: var(--WHITE, #FFF);
         background: var(--IRIS, #4D5AE5);
         box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
+.page-info:hover,
+.page-info:focus {
+background-color: #404BBF;
+}
+    
 .benefits-list-title{
 
 color: var(--NAVY-BLUE, #2E2F42);
