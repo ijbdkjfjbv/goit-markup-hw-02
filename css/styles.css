@@ -176,7 +176,7 @@ background-color: #FFFFFF;
         /* 150% */
         letter-spacing: 0.32px;
 }
-.logotype2 {
+.logotype-two {
     color: var(--IRIS, #4D5AE5);
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
@@ -187,7 +187,7 @@ background-color: #FFFFFF;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
-.logo2 {
+.logo-two {
 color: var(--CLOUD, #F4F4FD);
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
