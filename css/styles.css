@@ -47,7 +47,7 @@ body {
         /* 150% */
         letter-spacing: 0.32px;
         }
-        .page-text:hover
+        .page-text:hover,
         .page-text:focus {
         color: #404bbf;
         }
@@ -64,7 +64,7 @@ body {
         letter-spacing: 0.32px;
 }
 .main-title {
-background-color: #2e2f42
+background-color: #2e2f42;
 color: var(--WHITE, #FFF);
     text-align: center;
     /* Header 1 */
