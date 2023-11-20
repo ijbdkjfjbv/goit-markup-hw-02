@@ -123,8 +123,10 @@ color: var(--NAVY-BLUE, #2E2F42);
         /* 150% */
         letter-spacing: 0.32px;
 }
+.section-tit{
+background-color: #F4F4FD;
+}
 .section-title {
-    background-color: #F4F4FD;
     color: var(--NAVY-BLUE, #2E2F42);
         text-align: center;
         /* Header 2 */
