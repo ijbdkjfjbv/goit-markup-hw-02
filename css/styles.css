@@ -139,8 +139,10 @@ background-color: #F4F4FD;
         letter-spacing: 0.72px;
         text-transform: capitalize;
 }
+.ingredients-list-title{
+background-color: #FFFFFF;
+}
 .ingredients-list-title {
-    background-color: #FFFFFF;
     color: var(--NAVY-BLUE, #2E2F42);
         /* Header 3 */
         font-family: Roboto;
