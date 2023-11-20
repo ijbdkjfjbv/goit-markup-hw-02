@@ -65,6 +65,10 @@ body {
         /* 150% */
         letter-spacing: 0.32px;
 }
+ .page-info:hover,
+ .page-info:focus {
+     color: #404bbf;
+ }
 .main-title {
 background-color: #2e2f42;
 color: var(--WHITE, #FFF);
