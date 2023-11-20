@@ -51,7 +51,9 @@ body {
         .page-text:focus {
         color: #404bbf;
         }
-
+.page-address {
+    font-style: normal;
+}
 .page-info {
     color: var(--SLATE, #434455);
         /* Body */
